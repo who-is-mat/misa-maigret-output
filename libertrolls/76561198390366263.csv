@@ -1,0 +1,5 @@
+username,name,url_main,url_user,exists,http_status
+76561198390366263,Steamid (by id),https://steamid.uk/,https://steamid.uk/profile/76561198390366263,Unknown,403
+76561198390366263,steamdb.info,https://steamdb.info,https://steamdb.info/calculator/76561198390366263,Unknown,403
+76561198390366263,Steam (by id),https://steamcommunity.com/,https://steamcommunity.com/profiles/76561198390366263,Claimed,200
+76561198390366263,Steamidfinder (by id),https://steamidfinder.com,https://steamidfinder.com/lookup/76561198390366263,Available,200
