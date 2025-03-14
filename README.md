@@ -9,3 +9,6 @@ Si grita “Estado es robo”,
 o a Rand pone en un globo,
 ya sabés, no hay error,
 es un troll, confirmación.
+
+## ✏️
+### for f in report_*; do mv "$f" "${f#report_}"; done 
